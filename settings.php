@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pwd  = "";     
-$sql_db = "project2_db"; 
+$sql_db = "website_development"; 
 ?>
 
 

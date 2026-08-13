@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS project2_db;
-USE project2_db;
+CREATE DATABASE IF NOT EXISTS website_development;
+USE website_development;
 CREATE TABLE IF NOT EXISTS jobs (
     job_id INT AUTO_INCREMENT PRIMARY KEY,
     job_ref VARCHAR(10) NOT NULL UNIQUE,
